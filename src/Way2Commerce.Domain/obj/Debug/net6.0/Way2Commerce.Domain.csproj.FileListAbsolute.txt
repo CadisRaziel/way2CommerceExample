@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Documents\aprendendo_csharp\Way2Commerce\src\Way2Commerce.Domain\bin\Debug\net6.0\Way2Commerce.Domain.deps.json
+C:\Users\Lenovo\Documents\aprendendo_csharp\Way2Commerce\src\Way2Commerce.Domain\bin\Debug\net6.0\Way2Commerce.Domain.dll
+C:\Users\Lenovo\Documents\aprendendo_csharp\Way2Commerce\src\Way2Commerce.Domain\bin\Debug\net6.0\Way2Commerce.Domain.pdb
+C:\Users\Lenovo\Documents\aprendendo_csharp\Way2Commerce\src\Way2Commerce.Domain\obj\Debug\net6.0\Way2Commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\aprendendo_csharp\Way2Commerce\src\Way2Commerce.Domain\obj\Debug\net6.0\Way2Commerce.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\aprendendo_csharp\Way2Commerce\src\Way2Commerce.Domain\obj\Debug\net6.0\Way2Commerce.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\aprendendo_csharp\Way2Commerce\src\Way2Commerce.Domain\obj\Debug\net6.0\Way2Commerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\aprendendo_csharp\Way2Commerce\src\Way2Commerce.Domain\obj\Debug\net6.0\Way2Commerce.Domain.sourcelink.json
+C:\Users\Lenovo\Documents\aprendendo_csharp\Way2Commerce\src\Way2Commerce.Domain\obj\Debug\net6.0\Way2Commerce.Domain.dll
+C:\Users\Lenovo\Documents\aprendendo_csharp\Way2Commerce\src\Way2Commerce.Domain\obj\Debug\net6.0\refint\Way2Commerce.Domain.dll
+C:\Users\Lenovo\Documents\aprendendo_csharp\Way2Commerce\src\Way2Commerce.Domain\obj\Debug\net6.0\Way2Commerce.Domain.pdb
+C:\Users\Lenovo\Documents\aprendendo_csharp\Way2Commerce\src\Way2Commerce.Domain\obj\Debug\net6.0\ref\Way2Commerce.Domain.dll

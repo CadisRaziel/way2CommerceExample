@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\aprendendo_csharp\\Way2Commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DACC224F-3880-4E66-BA51-2060E2DEB99D}|src\\Way2Commerce.Api\\Way2Commerce.Api.csproj|c:\\users\\lenovo\\documents\\aprendendo_csharp\\way2commerce\\src\\way2commerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACC224F-3880-4E66-BA51-2060E2DEB99D}|src\\Way2Commerce.Api\\Way2Commerce.Api.csproj|solutionrelative:src\\way2commerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\aprendendo_csharp\\Way2Commerce\\src\\Way2Commerce.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Way2Commerce.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\aprendendo_csharp\\Way2Commerce\\src\\Way2Commerce.Api\\Program.cs",
+              "RelativeToolTip": "src\\Way2Commerce.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:28:16.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
